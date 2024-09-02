@@ -19,6 +19,19 @@ text-transform:none !important;
 }
 
 /*mini-site*/
+/*remove polka dots*/
 .cco_templateless_page #chabad_main_content{
     background-image:none !important;
 }
+/*promo round and remove transparent rectangle*/
+.sPromo-flex{
+    border-radius:50% !important;
+    }
+    .sPromo-wrap .caption {
+        background:none !important;
+    }
+
+    .custom-mini-banner .mini-banner-1, .custom-mini-banner .mini-banner-2{
+        border-radius:50px !important;
+        background-color: #f5dbcf !important;
+    }
