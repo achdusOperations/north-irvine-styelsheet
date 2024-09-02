@@ -56,7 +56,7 @@ text-transform:none !important;
         border:2px solid #ff6b57 !important;
     }
 /*headers*/
-.custom_message .title{
+.custom_message .title,  .co_calendar_head, .prepResource-title{
     font-weight:bold !important;
     color:#ff6b57 !important;
 }
