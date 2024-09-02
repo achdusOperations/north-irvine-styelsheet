@@ -33,15 +33,17 @@ text-transform:none !important;
     .sPromo-wrap .caption {
         background:none !important;
     }
-/*custom mini banners and upcoming events rounded and soft pink*/
+/*custom mini banners */
     .custom-mini-banner .mini-banner-1, .custom-mini-banner .mini-banner-2 {
         border-radius:50px !important;
         background-color: #f5dbcf !important;
+        color:#38254c !important;
     }
     /*upcoming events rounded and soft pink*/
     .co_calendar_text{
         border-radius:100px !important;
         background-color: #f5dbcf !important;
+        color:#38254c !important;
     }
     /*footer*/
     .footer{
@@ -53,3 +55,8 @@ text-transform:none !important;
         border-radius:50px !important;
         border:2px solid #ff6b57 !important;
     }
+/*headers*/
+.custom_message .title{
+    font-weight:bold !important;
+    color:#ff6b57 !important;
+}
