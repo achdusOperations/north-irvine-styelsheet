@@ -17,3 +17,8 @@
 font-family: 'Maven Pro', sans-serif !important;
 text-transform:none !important;
 }
+
+/*mini-site*/
+.cco_templateless_page #chabad_main_content{
+    background-image:none !important;
+}
