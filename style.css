@@ -59,4 +59,5 @@ text-transform:none !important;
 .custom_message .title,  .co_calendar_head, .prepResource-title{
     font-weight:bold !important;
     color:#ff6b57 !important;
+    letter-spacing: 2px !important;
 }
