@@ -6,6 +6,13 @@
 .the-first-thing {
 	doesnt: render;
 }
+/*headers mini site*/
+.custom_message .title,  .co_calendar_head, .prepResource-title, .indexsection .title{
+    font-weight:bold !important;
+    color:#ff6b57 !important;
+    letter-spacing: 2px !important;
+    font-family: 'Oswald', 'Arimo', sans-serif !important;;
+}
 
 
 #BodyContainer > div > div.g960 > div > div.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.no_margin.g960.no_margin > div > div:nth-child(4) > div > div > div.widget_header > h5, #BodyContainer > div > div.g960 > div > div.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.no_margin.g960.no_margin > div > div.hp-row.hp_subscribe > div > div > div.widget_header > h5{
@@ -55,10 +62,3 @@ text-transform:none !important;
         border-radius:50px !important;
         border:2px solid #ff6b57 !important;
     }
-/*headers*/
-.custom_message .title,  .co_calendar_head, .prepResource-title, .indexsection .title{
-    font-weight:bold !important;
-    color:#ff6b57 !important;
-    letter-spacing: 2px !important;
-    font-family: 'Oswald', 'Arimo', sans-serif !important;;
-}
