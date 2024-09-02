@@ -31,11 +31,15 @@ text-transform:none !important;
         background:none !important;
     }
 /*custom mini banners and upcoming events rounded and soft pink*/
-    .custom-mini-banner .mini-banner-1, .custom-mini-banner .mini-banner-2, .co_calendar_text{
+    .custom-mini-banner .mini-banner-1, .custom-mini-banner .mini-banner-2 {
         border-radius:50px !important;
         background-color: #f5dbcf !important;
     }
     /*upcoming events rounded and soft pink*/
+    .co_calendar_text{
+        border-radius:50% !important;
+        background-color: #f5dbcf !important;
+    }
     /*footer*/
     .footer{
         background-color: #ff6b57 !important;
