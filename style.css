@@ -6,10 +6,7 @@
 .the-first-thing {
 	doesnt: render;
 }
-@font-face {
-    font-family: 'garet';
-    src: url(Garet-Book.otf);
-  }
+
 
 #BodyContainer > div > div.g960 > div > div.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.no_margin.g960.no_margin > div > div:nth-child(4) > div > div > div.widget_header > h5, #BodyContainer > div > div.g960 > div > div.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.g960.no_margin.g960.no_margin > div > div.hp-row.hp_subscribe > div > div > div.widget_header > h5{
     text-transform: capitalize !important;
@@ -43,14 +40,13 @@ text-transform:none !important;
     }
     /*upcoming events rounded and soft pink*/
     .co_calendar_text{
-        border-radius:50% !important;
+        border-radius:100px !important;
         background-color: #f5dbcf !important;
     }
     /*footer*/
     .footer{
         background-color: #ff6b57 !important;
         color:#FFF !important;
-        font-family: 'garet';
     }
     /*buttons*/
     .read-more_link a{
