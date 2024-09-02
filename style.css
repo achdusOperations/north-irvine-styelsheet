@@ -30,8 +30,19 @@ text-transform:none !important;
     .sPromo-wrap .caption {
         background:none !important;
     }
-
-    .custom-mini-banner .mini-banner-1, .custom-mini-banner .mini-banner-2{
+/*custom mini banners and upcoming events rounded and soft pink*/
+    .custom-mini-banner .mini-banner-1, .custom-mini-banner .mini-banner-2, .co_calendar_text{
         border-radius:50px !important;
         background-color: #f5dbcf !important;
+    }
+    /*upcoming events rounded and soft pink*/
+    /*footer*/
+    .footer{
+        background-color: #ff6b57 !important;
+        color:#FFF !important;
+    }
+    /*buttons*/
+    .donate_link a, .read-more_link a{
+        border-radius:50px !important;
+        color:#ff6b57 !important;
     }
