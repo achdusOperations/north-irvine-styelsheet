@@ -67,3 +67,11 @@ text-transform:none !important;
 .desc *{
     font-size:20px !important;
 }
+/*banner in mobile centered*/
+@media only screen and (min-width: 320px) and (max-width:768px){
+
+.custom-mini-banner *{
+    text-align: center !important;
+}
+
+}
