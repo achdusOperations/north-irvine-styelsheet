@@ -83,4 +83,7 @@ text-transform:none !important;
         right:45% !important;
         top:264px !important;
     }
+    #co_content_container .co_body img{
+        height:100% !important;
+    }
 }
