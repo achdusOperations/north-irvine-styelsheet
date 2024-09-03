@@ -68,17 +68,18 @@ text-transform:none !important;
     font-size:20px !important;
 }
 /*banner in mobile centered*/
-@media only screen and (min-width: 320px) and (max-width:975px){
+@media (max-width: 1024px){
 
 .custom-mini-banner *{
     text-align: center !important;
 }
 
 }
-
+@media (max-width: 1024px){
 .mobile .bh{
     text-align: center !important;
 }
 .mobile-only {
     display: center !important;
+}
 }
