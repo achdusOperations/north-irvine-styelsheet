@@ -34,6 +34,9 @@ text-transform:none !important;
     .sPromo-wrap .caption {
         background:none !important;
     }
+    .sPromo-flex{
+        border:none !important;
+    }
 /*custom mini banners */
     .custom-mini-banner .mini-banner-1, .custom-mini-banner .mini-banner-2 {
         border-radius:50px !important;
