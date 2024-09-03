@@ -76,10 +76,8 @@ text-transform:none !important;
 
 }
 @media (max-width: 1024px){
-.mobile .bh{
-    text-align: center !important;
-}
-.mobile-only {
-    display: center !important;
-}
+    body.section_root .bh{
+        right:45% !important;
+        top:264px !important;
+    }
 }
