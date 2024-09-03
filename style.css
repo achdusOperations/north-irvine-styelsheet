@@ -75,3 +75,10 @@ text-transform:none !important;
 }
 
 }
+
+.mobile .bh{
+    text-align: center !important;
+}
+.mobile-only {
+    display: center !important;
+}
