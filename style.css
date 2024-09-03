@@ -36,6 +36,7 @@ text-transform:none !important;
     }
     .sPromo-flex{
         border:none !important;
+        max-height:300px !important;
     }
 /*custom mini banners */
     .custom-mini-banner .mini-banner-1, .custom-mini-banner .mini-banner-2 {
