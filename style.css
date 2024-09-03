@@ -44,6 +44,9 @@ text-transform:none !important;
         background-color: #f5dbcf !important;
         color:#38254c !important;
     }
+    .custom-mini-banner .banner-box .title{
+        font-size:22px !important;
+    }
     /*upcoming events rounded and soft pink*/
     .co_calendar_text{
         border-radius:100px !important;
