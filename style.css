@@ -63,3 +63,7 @@ text-transform:none !important;
     letter-spacing: 2px !important;
     font-family:'Maven Pro', sans-serif !important;
 }
+/*size of letters in comments*/
+.desc *{
+    font-size:20px !important;
+}
