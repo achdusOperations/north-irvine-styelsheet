@@ -23,6 +23,18 @@ text-transform:none !important;
 }
 
 /*mini-site*/
+/*mitzva society*/
+.g960.footer{
+    background-color:#001d44 !important;
+}
+.sPromo-flex{
+    flex:1 1 200px !important;
+}
+
+.custom_message:has(.mitzva) .title{
+    color:#001d44 !important;
+}
+
 /*remove polka dots*/
 .cco_templateless_page #chabad_main_content{
     background-image:none !important;
@@ -90,14 +102,4 @@ text-transform:none !important;
     #co_content_container .co_body img{
         height:100% !important;
     }
-}
-/*mitzva society*/
-.g960.footer{
-    background-color:#001d44 !important;
-}
-.sPromo-flex{
-    flex:1 1 200px !important;
-}
-.custom_message:has(.mitzva) .title{
-    color:#001d44 !important;
 }
