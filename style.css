@@ -31,7 +31,7 @@ text-transform:none !important;
     flex:1 1 200px !important;
 }
 
-.custom_message:has(#mitzva) .title{
+.custom_message:has(.mitzva) .title{
     color:#001d44 !important;
 }
 
@@ -76,7 +76,7 @@ text-transform:none !important;
         border:2px solid #ff6b57 !important;
     }
     /*headers mini site*/
-#ContentBody > div.content-area-parent.no_margin > div.indexsection.custom_message.clearfix > div.title.titleIcon, #ContentBody > div.content-area-parent.no_margin > div.custom-mini-banner > div.prepResource-title, #ContentBody > div.content-area-parent.no_margin > div:nth-child(1) > div.title.titleIcon, custom_message .title,  .co_calendar_head, .prepResource-title, .indexsection .title, #co_calendar > div.co_calendar_head > div{
+#ContentBody > div.content-area-parent.no_margin > div.indexsection.custom_message.clearfix > div.title.titleIcon, .custom_message:has(.women) .title, #ContentBody > div.content-area-parent.no_margin > div:nth-child(1) > div.title.titleIcon, custom_message .title,  .co_calendar_head, .prepResource-title, .indexsection .title, #co_calendar > div.co_calendar_head > div{
     font-weight:bold !important;
     color:#ff6b57 !important;
     letter-spacing: 2px !important;
