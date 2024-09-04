@@ -91,3 +91,10 @@ text-transform:none !important;
         height:100% !important;
     }
 }
+/*mitzva society*/
+.g960.footer{
+    background-color:#001d44 ;
+}
+.sPromo-flex{
+    flex:1 1 200px !important;
+}
