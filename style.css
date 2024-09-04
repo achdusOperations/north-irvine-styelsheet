@@ -31,7 +31,7 @@ text-transform:none !important;
     flex:1 1 200px !important;
 }
 
-.custom_message:has(.mitzva) .title{
+.custom_message:has(#mitzva) .title{
     color:#001d44 !important;
 }
 
