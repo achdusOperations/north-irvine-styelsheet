@@ -60,7 +60,7 @@ a.women{
     color:#e9c135 !important;
 }
 /*banner background colour*/
-.mini-banner-1:has(.mitzva){
+.custom-mini-banner:has(.mitzva) .mini-banner-1{
     background-color: #001d44 !important;
     color:#FFF;
 }
@@ -68,7 +68,7 @@ a.women{
     background-color: #e9c135;
     color: #FFF;
 }
-.mini-banner-1:has(.mitzva), .mini-banner-2:has(.mitzva){
+.custom-mini-banner:has(.women) .mini-banner-1,.custom-mini-banner:has(.women) .mini-banner-2{
     border-radius:50px !important;
     background-color: #f5dbcf !important;
     color:#38254c !important;
