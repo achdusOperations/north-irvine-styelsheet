@@ -102,8 +102,12 @@ a.women{
         color:#38254c !important;
     }
     /*footer*/
-    .footer{
+    .section_root:has(.women) .footer{
         background-color: #ff6b57 !important;
+        color:#FFF !important;
+    }
+    .section_root:has(.mitzva) .footer{
+        background-color: #001d44 !important;
         color:#FFF !important;
     }
     /*buttons*/
