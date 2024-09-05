@@ -32,8 +32,12 @@ text-transform:none !important;
 .custom_message:has(.mitzva) .title{
     color:#001d44 !important;
 }
+/*donate title*/
 .indexsection:has(.mitzva) .title{
     color:#e9c135 !important;
+}
+.indexsection:has(.women) .title{
+    color:#ff6b57 !important;
 }
 /*donate buttons*/
 a.mitzva{
@@ -83,7 +87,7 @@ a.women{
        
     }
     /*headers mini site*/
-#ContentBody > div.content-area-parent.no_margin > div.indexsection.custom_message.clearfix > div.title.titleIcon, .custom_message:has(.women) .title, custom_message .title,  .co_calendar_head, .prepResource-title, .indexsection .title, #co_calendar > div.co_calendar_head > div{
+ .custom_message:has(.women) .title, custom_message .title,  .co_calendar_head, .prepResource-title, #co_calendar > div.co_calendar_head > div{
     font-weight:bold !important;
     color:#ff6b57 !important;
     letter-spacing: 2px !important;
