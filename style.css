@@ -37,7 +37,10 @@ text-transform:none !important;
     color:#e9c135 !important;
 }
 .indexsection:has(.women) .title{
+    font-weight:bold !important;
     color:#ff6b57 !important;
+    letter-spacing: 2px !important;
+    font-family:'Maven Pro', sans-serif !important;
 }
 /*donate buttons*/
 a.mitzva{
