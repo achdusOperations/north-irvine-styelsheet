@@ -31,10 +31,16 @@ text-transform:none !important;
 
 .custom_message:has(.mitzva) .title{
     color:#001d44 !important;
+    font-weight:bold !important;
+    letter-spacing: 2px !important;
+    font-family:'Maven Pro', sans-serif !important;
 }
 /*donate title*/
 .indexsection:has(.mitzva) .title{
     color:#e9c135 !important;
+    font-weight:bold !important;
+    letter-spacing: 2px !important;
+    font-family:'Maven Pro', sans-serif !important;
 }
 .indexsection:has(.women) .title{
     font-weight:bold !important;
