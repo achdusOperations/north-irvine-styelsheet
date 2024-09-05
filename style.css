@@ -35,7 +35,7 @@ text-transform:none !important;
 .indexsection:has(.mitzva) .title{
     color:#e9c135 !important;
 }
-.mitzva a{
+a.mitzva{
     border:2px solid #e9c135 !important
 }
 /*remove polka dots*/
