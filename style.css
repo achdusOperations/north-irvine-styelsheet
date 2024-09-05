@@ -62,6 +62,13 @@ a.women{
     background-color: #e9c135;
     color: #FFF;
 }
+.mini-banner-1:has(.mitzva), .mini-banner-2:has(.mitzva){
+    border-radius:50px !important;
+    background-color: #f5dbcf !important;
+    color:#38254c !important;
+}
+
+
 /*remove polka dots*/
 .cco_templateless_page #chabad_main_content{
     background-image:none !important;
@@ -78,11 +85,7 @@ a.women{
         max-height:450px !important;
     }
 /*custom mini banners */
-    .custom-mini-banner .mini-banner-1, .custom-mini-banner .mini-banner-2 {
-        border-radius:50px !important;
-        background-color: #f5dbcf !important;
-        color:#38254c !important;
-    }
+    
     .custom-mini-banner .banner-box .title{
         font-size:22px !important;
     }
