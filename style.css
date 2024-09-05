@@ -32,6 +32,9 @@ text-transform:none !important;
 .custom_message:has(.mitzva) .title{
     color:#001d44 !important;
 }
+.indexsection:has(.mitzva) .title{
+    color:#001d44 !important;
+}
 
 /*remove polka dots*/
 .cco_templateless_page #chabad_main_content{
