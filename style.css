@@ -59,14 +59,23 @@ a.women{
 .custom-mini-banner:has(.mitzva) .prepResource-title{
     color:#e9c135 !important;
 }
+    /*headers mini site*/
+    .custom_message:has(.women) .title, custom_message .title,  .co_calendar_head, .prepResource-title, #co_calendar > div.co_calendar_head > div{
+        font-weight:bold !important;
+        color:#ff6b57 !important;
+        letter-spacing: 2px !important;
+        font-family:'Maven Pro', sans-serif !important;
+    }
 /*banner background colour*/
 .custom-mini-banner:has(.mitzva) .mini-banner-1{
     background-color: #001d44 !important;
-    color:#FFF;
+    color:#FFF !important;
+    border-radius:50px !important;
 }
 .custom-mini-banner:has(.mitzva) .mini-banner-2{
-    background-color: #e9c135;
-    color: #FFF;
+    background-color: #e9c135 !important;
+    color: #FFF !important;
+    border-radius:50px !important;
 }
 .custom-mini-banner:has(.women) .mini-banner-1,.custom-mini-banner:has(.women) .mini-banner-2{
     border-radius:50px !important;
@@ -115,13 +124,7 @@ a.women{
         border-radius:50px !important;
        
     }
-    /*headers mini site*/
- .custom_message:has(.women) .title, custom_message .title,  .co_calendar_head, .prepResource-title, #co_calendar > div.co_calendar_head > div{
-    font-weight:bold !important;
-    color:#ff6b57 !important;
-    letter-spacing: 2px !important;
-    font-family:'Maven Pro', sans-serif !important;
-}
+
 /*size of letters in comments*/
 .desc *{
     font-size:20px !important;
