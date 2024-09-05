@@ -49,6 +49,9 @@ a.mitzva{
 a.women{
     border:2px solid #ff6b57 !important;
 }
+.custom-mini-banner:has(.mitzva) .prepResource-title{
+    color:#e9c135 !important;
+}
 /*remove polka dots*/
 .cco_templateless_page #chabad_main_content{
     background-image:none !important;
