@@ -35,8 +35,12 @@ text-transform:none !important;
 .indexsection:has(.mitzva) .title{
     color:#e9c135 !important;
 }
+/*donate buttons*/
 a.mitzva{
     border:2px solid #e9c135 !important
+}
+a.women{
+    border:2px solid #ff6b57 !important;
 }
 /*remove polka dots*/
 .cco_templateless_page #chabad_main_content{
@@ -76,7 +80,7 @@ a.mitzva{
     /*buttons*/
     .read-more_link a{
         border-radius:50px !important;
-        border:2px solid #ff6b57 !important;
+       
     }
     /*headers mini site*/
 #ContentBody > div.content-area-parent.no_margin > div.indexsection.custom_message.clearfix > div.title.titleIcon, .custom_message:has(.women) .title, custom_message .title,  .co_calendar_head, .prepResource-title, .indexsection .title, #co_calendar > div.co_calendar_head > div{
