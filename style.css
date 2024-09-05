@@ -33,9 +33,11 @@ text-transform:none !important;
     color:#001d44 !important;
 }
 .indexsection:has(.mitzva) .title{
-    color:#001d44 !important;
+    color:#e9c135 !important;
 }
-
+.mitzva a{
+    border:2px solid #e9c135 !important
+}
 /*remove polka dots*/
 .cco_templateless_page #chabad_main_content{
     background-image:none !important;
