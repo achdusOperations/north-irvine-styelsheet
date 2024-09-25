@@ -35,7 +35,7 @@ text-transform:none !important;
     letter-spacing: 2px !important;
     font-family:'Maven Pro', sans-serif !important;
 }
-html:has(meta[content*="mitzva…"]) p.mitzva{
+html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) p.mitzva{
     line-height: normal !important;
 }
 /*donate title*/
