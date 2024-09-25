@@ -95,7 +95,7 @@ a.women{
     background-color: #001d44 !important;
     color:#FFF !important;
     border-radius:50px !important;
-    height:15px !important;
+   
 }
 .custom-mini-banner:has(.mitzva) .mini-banner-2{
     background-color: #e9c135 !important;
