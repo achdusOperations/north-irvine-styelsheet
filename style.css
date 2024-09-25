@@ -56,6 +56,9 @@ html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) .custom-mini-banner .b
 html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) .custom-mini-banner{
     margin:0px !important;
 }
+html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) #ContentBody > div.content-area-parent.no_margin > div.custom-mini-banner > div.mini-banner-1 > div > div.desc > p:nth-child(5){
+    display
+}
 /*donate title*/
 .indexsection:has(.mitzva) .title{
     color:#e9c135 !important;
@@ -92,6 +95,7 @@ a.women{
     background-color: #001d44 !important;
     color:#FFF !important;
     border-radius:50px !important;
+    height:15px !important;
 }
 .custom-mini-banner:has(.mitzva) .mini-banner-2{
     background-color: #e9c135 !important;
