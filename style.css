@@ -35,13 +35,13 @@ text-transform:none !important;
     letter-spacing: 2px !important;
     font-family:'Maven Pro', sans-serif !important;
 }
+/*comment*/
 html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) p.mitzva{
     line-height: normal !important;
+    font-size:17px !important;
 }
 
-html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) .desc *{
-    font-size:20px !important;
-}
+
 /*donate title*/
 .indexsection:has(.mitzva) .title{
     color:#e9c135 !important;
