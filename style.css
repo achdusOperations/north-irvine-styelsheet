@@ -36,7 +36,7 @@ html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) p.mitzva{
     font-size:17px !important;
 }
 /*titles mitzva*/
-html:has(meta[content*="spread"]) .article-header__title, html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) .custom_message .title{
+html:has(meta[content*="Spread The Light - ChabadNI.com"]) .article-header__title, html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) .custom_message .title{
     color:#001d44 !important;
     font-weight:bold !important;
     letter-spacing: 2px !important;
