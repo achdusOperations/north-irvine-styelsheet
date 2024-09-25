@@ -34,6 +34,7 @@ text-transform:none !important;
 html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) p.mitzva{
     line-height: normal !important;
     font-size:17px !important;
+    margin-bottom:0px !important;
 }
 /*titles mitzva */
 html:has(meta[content*="Spread The Light - ChabadNI.com"]) .article-header__title, html:has(meta[content*="Ambassador of Freedom - ChabadNI.com"]) .article-header__title, html:has(meta[content*="Share The Joy - ChabadNI.com"]) .article-header__title, html:has(meta[content*="Ambassador of Light - ChabadNI.com"]) .article-header__title, html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) .custom_message .title{
