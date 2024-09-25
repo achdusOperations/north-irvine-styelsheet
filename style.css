@@ -29,16 +29,18 @@ text-transform:none !important;
     flex:1 1 200px !important;
 }
 
-.custom_message:has(.mitzva) .title{
-    color:#001d44 !important;
-    font-weight:bold !important;
-    letter-spacing: 2px !important;
-    font-family:'Maven Pro', sans-serif !important;
-}
+
 /*comment*/
 html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) p.mitzva{
     line-height: normal !important;
     font-size:17px !important;
+}
+/*titles*/
+html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) .article-header__title{
+    color:#001d44 !important;
+    font-weight:bold !important;
+    letter-spacing: 2px !important;
+    font-family:'Maven Pro', sans-serif !important;
 }
 
 
