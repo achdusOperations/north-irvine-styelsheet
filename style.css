@@ -44,7 +44,7 @@ html:has(meta[content*="Spread The Light - ChabadNI.com"]) .article-header__titl
 }
 
 html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) .custom_message{
-    margin-bottom: none !important;
+    margin-bottom: 0px !important;
 }
 /*donate title*/
 .indexsection:has(.mitzva) .title{
