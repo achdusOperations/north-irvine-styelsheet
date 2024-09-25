@@ -101,6 +101,7 @@ a.women{
     background-color: #e9c135 !important;
     color: #FFF !important;
     border-radius:50px !important;
+    height:15px !important;
 }
 .custom-mini-banner:has(.women) .mini-banner-1,.custom-mini-banner:has(.women) .mini-banner-2{
     border-radius:50px !important;
