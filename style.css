@@ -35,6 +35,9 @@ text-transform:none !important;
     letter-spacing: 2px !important;
     font-family:'Maven Pro', sans-serif !important;
 }
+html:has(meta[content*="mitzva…"]) p.mitzva{
+    line-height: normal !important;
+}
 /*donate title*/
 .indexsection:has(.mitzva) .title{
     color:#e9c135 !important;
