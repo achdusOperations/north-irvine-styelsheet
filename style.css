@@ -61,10 +61,10 @@ html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) .custom-mini-banner .b
 html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) .custom-mini-banner{
     margin:0px !important;
 }
-html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) .custom-mini-banner .mini-banner-1{
+html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(9) .mini-banner-1{
     background-color: #FFF !important;
 }
-html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) .custom-mini-banner .mini-banner-2{
+html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(9) .mini-banner-2{
     display: none !important;
 }
 ​
