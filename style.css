@@ -61,6 +61,7 @@ html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) .custom-mini-banner .b
 html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) .custom-mini-banner{
     margin:0px !important;
 }
+
 ​
 /*donate title*/
 .indexsection:has(.mitzva) .title{
