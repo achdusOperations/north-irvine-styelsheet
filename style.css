@@ -61,9 +61,9 @@ html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) .custom-mini-banner .b
 html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) .custom-mini-banner{
     margin:0px !important;
 }
-html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) #ContentBody > div.content-area-parent.no_margin > div.custom-mini-banner > div.mini-banner-1 > div > div.desc > p:nth-child(5){
-    display
-}
+html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) .custom-mini-banner .mini-banner-1::before {
+    content:url(https://chabadni.com/media/images/1292/lwgc12926068.png);
+ }​
 /*donate title*/
 .indexsection:has(.mitzva) .title{
     color:#e9c135 !important;
