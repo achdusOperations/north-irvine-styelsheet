@@ -79,59 +79,16 @@ html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) #ContentBody > div.con
     margin-bottom: -154px !important;
     z-index:100 !important;
 }
+@media (max-width: 1024px){
+html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(9) > div.mini-banner-1 > div > div.desc > p > img{
+    margin-bottom: -138px !important;
+}
+}
 html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(9) > div.prepResource-title{
     margin-bottom: -50px !important;
 }
 
-/*curve title*/
-.estrellas {
-    position: relative;
-    width: 520px;
-    height:300px;
-    margin: 0 auto;
-    font-size: 70px;
-  }
-  .estrellas span {
-    position: absolute;
-    bottom: 0;
-    left: 50%;
-    width: 70px;
-    height: 300px;
-    margin-left: -35px;
-    line-height: 530px; /* height*2 - font-size */
-    text-align: center;
-    transform-origin: top center;
-  }
-  .estrellas span:nth-of-type(1)  {
-    transform: rotate(75deg);
-  }
-  .estrellas span:nth-of-type(2)  {
-    transform: rotate(50deg);
-  }
-  .estrellas span:nth-of-type(3)  {
-    transform: rotate(25deg);
-  }
-  .estrellas span:nth-of-type(4)  {
-    transform: rotate(0deg);
-  }
-  .estrellas span:nth-of-type(5)  {
-    transform: rotate(-25deg);
-  }
-  .estrellas span:nth-of-type(6)  {
-    transform: rotate(-50deg);
-  }
-  .estrellas span:nth-of-type(7)  {
-    transform: rotate(-75deg);
-  }
-  /* Reverse mode */
-  .inverso {
-    font-weight: bold;
-  }
-  .inverso span {
-    line-height: 70px;
-    transform-origin: bottom center;
-    
-  }
+
 /*donate title*/
 .indexsection:has(.mitzva) .title{
     color:#e9c135 !important;
