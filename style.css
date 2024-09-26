@@ -74,7 +74,11 @@ html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) .prepResource-title{
 html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(9) > div.mini-banner-1 > div{
     padding-top:0px !important;
 }
-
+html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(9) > div.mini-banner-1 > div > div.desc > p > img{
+    position:relative !important;
+    margin: -100px !important;
+    z-index:100 !important;
+}
 /*donate title*/
 .indexsection:has(.mitzva) .title{
     color:#e9c135 !important;
