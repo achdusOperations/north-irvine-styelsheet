@@ -82,12 +82,17 @@ html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) #ContentBody > div.con
 @media (max-width: 1024px){
 html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(9) > div.mini-banner-1 > div > div.desc > p > img{
     margin-bottom: -138px !important;
-    padding-left:20px !important;
+    
+}
+html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(9) > div.prepResource-title{
+
+padding-left:20px !important;
     padding-right: 20px !important;
 }
 }
 html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(9) > div.prepResource-title{
     margin-bottom: -50px !important;
+    
 }
 
 
