@@ -78,7 +78,9 @@ html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) #ContentBody > div.con
     position:relative !important;
     margin-bottom: -154px !important;
     z-index:100 !important;
+    background:none !important;
 }
+
 /*html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(9) > div.mini-banner-1 > div > div.desc > p > img{
    
 }*/
