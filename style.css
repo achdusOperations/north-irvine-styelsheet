@@ -61,24 +61,23 @@ html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) .custom-mini-banner .b
 html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) .custom-mini-banner{
     margin:0px !important;
 }
-html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(9) .mini-banner-1{
+html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(1) .mini-banner-1{
     background-color: #FFF !important;
 }
-html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(9) .mini-banner-2{
+html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(1) .mini-banner-2{
     display: none !important;
 }
 /*mitzva title*/
 html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) .prepResource-title{
     color:#e9c135 !important;
 }
-html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(9) > div.mini-banner-1 > div{
+html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(1) > div.mini-banner-1 > div{
     padding-top:0px !important;
 }
-html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(1) > div.mini-banner-1{
+html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(1) > div.mini-banner-1 >div > div.desc > p > img{
     position:relative !important;
     margin-bottom: -154px !important;
     z-index:100 !important;
-    background:none !important;
 }
 html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(1) > div.mini-banner-2{
     background:none !important;
