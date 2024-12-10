@@ -110,6 +110,11 @@ html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) #navigation li.parent 
     border-radius: 25px !important;
     background: #001d44 !important;
 }
+@media (max-width: 1024px){
+    html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) div#chabad_head .chabad_navigator_bar{
+        background: #001d44 !important;
+    }
+}
 
 
 
