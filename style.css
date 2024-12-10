@@ -100,6 +100,9 @@ padding-left:40px !important;
 }
 
 /*mitzva navigation bar*/
+html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) div#chabad_head .chabad_navigator_bar{
+    background: none !important;
+}
 html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) #navigation li.parent.selected a.parent, html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) #navigation li.parent a.parent:hover{
     color:#e9c135 !important;
 }
