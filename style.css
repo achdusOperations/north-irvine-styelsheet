@@ -102,9 +102,11 @@ html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) div#chabad_head .chaba
 html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) #navigation li.parent.selected a.parent, html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) #navigation li.parent a.parent:hover{
     color:#e9c135 !important;
 }
-html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) a.parent{
+html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) #navigation li.parent a.parent {
     border-radius: 25px !important;
+    background: #001d44 !important;
 }
+
 
 
 /*donate title*/
