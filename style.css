@@ -63,6 +63,7 @@ html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) .custom-mini-banner{
 }
 html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(1) .mini-banner-1{
     background-color: #FFF !important;
+    margin-top:-20px !important;
 }
 html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) #ContentBody > div.content-area-parent.no_margin > div:nth-child(1) .mini-banner-2{
     display: none !important;
