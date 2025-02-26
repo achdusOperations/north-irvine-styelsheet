@@ -25,7 +25,7 @@ text-transform:none !important;
 /*mini-site*/
 /*mitzva society*/
 
-.sPromo-flex{
+html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) .sPromo-flex, html:has(meta[content*="Spread The Light - ChabadNI.com"]) .sPromo-flex{
     flex:1 1 200px !important;
 }
 
