@@ -178,7 +178,7 @@ a.women{
 /*.sPromo-flex{
     border-radius:50% !important;
     }*/
-    .sPromo-wrap .caption {
+    html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) .sPromo-wrap .caption, html:has(meta[content*="Ambassador of Freedom - ChabadNI.com"]) .article-header__title, html:has(meta[content*="Share The Joy - ChabadNI.com"]) .article-header__title, html:has(meta[content*="Ambassador of Light - ChabadNI.com"]) .article-header__title, html:has(meta[content*="Mitzvah Society - ChabadNI.com"]) .article-header__title   {
         background:none !important;
     }
     .sPromo-flex{
