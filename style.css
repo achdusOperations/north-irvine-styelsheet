@@ -241,6 +241,6 @@ a.women{
 
 @media (min-width: 1024px){
     html:has(meta[content*="Purim"]) .sPromo-flex{
-    min-width:48px !important;}
+    min-width:48% !important;}
 }
     
