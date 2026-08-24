@@ -245,9 +245,6 @@ a.women{
 }
     
 /*HH minisite*/
-html:has(meta[content="4847658"]) .chabad_header {
-    background: url(https://chabadni.com/media/images/1383/tfMS13832170.png) center center / cover no-repeat !important;
-    aspect-ratio: 1000 / 450;
-    width: 100%;
-    height: auto;
+html:has(meta[content="4847658"]) #chabad_head img {
+    content: url("https://chabadni.com/media/images/1383/tfMS13832170.png") !important;
   }
