@@ -248,7 +248,7 @@ a.women{
 html:has(meta[content="4847658"]) #chabad_head img {
     content: url("https://chabadni.com/media/images/1383/tfMS13832170.png") !important;
   }
-  html:has(meta[content="4847658"]) .custom_message .title:not(.appeal .title) {
+  html:has(meta[content="4847658"]) .custom_message:nth-child(-n+4) .title {
     color: #8f2702 !important;
     font-weight: bold !important;
 }
